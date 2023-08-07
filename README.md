@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-I am Kuldeep. 
-
-💻 Software Engineer at Wipro ltd.
-
-💻 Open Source contributor.
-
 <!--
 **Kuldeep4498/Kuldeep4498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
