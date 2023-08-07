@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kuldeep. 
+I am Kuldeep. 
 
 💻 Software Engineer at Wipro ltd.
 
